@@ -1,0 +1,44 @@
+
+Çölyak hastalığı; besinlerdeki buğday, arpa ve çavdarda bulunan glüten adlı bir proteine karşı hassasiyet ile ortaya çıkar. Bir bağışıklık sistemi hastalığıdır ve her yaşta görülebilir.
+Bağışıklık sistemi glüten adlı proteine karşı vücudun geliştirdiği antikor, ince bağırsaklarda hasara ve çölyak hastalığının gelişimine neden olur. Antikor bağırsağın iç tabakasına zarar verir. Maddelerin emilimi zorlaşır.(Özellikle kan yapımında kullanılanlar) Bir tedavisi yok. Hasta gluten almazsa zarar önlenir ve şikayetler yok olur.
+
+
+
+Çölyak projesi:
+
+- Web istesi olacak *mobil uygulama da olacak galiba orda* *Css?* *Hilalle hocanın konuştuklarını tam anlamadım tekrar sorcam*
+- Çölyak hastalarının glutensiz ürün satan satıcıları bulmasını kolyalaştıracak bir projes
+- Proje ödevinin de ötesine gidip satıcılardan reklam alarak siteye koyabiliriz. Sipariş vermek isteyen kullanıcılara imkan sunabiliriz. Gel al harici hizmeti olmayan satıcılar için kurye hizmetini falan sağlayabilir miyiz?
+
+
+
+USE CASE(Proje ödevi kapsamında olmayanlar için tekrar güncellenip gözden geçirilecek. Herkesin onayı alınacak.)
+
+Müşteri:
+
+- Harita üzerinden çevresinde glutensiz ürün satan satıcıları görebilecek
+- Her satıcının butiğinde sattığı ürünleri görebilecek
+- Yeni bir hesap açabilecek veya oturum açabilecek
+- Hesap bilgilerini güncelleyebilecek
+- Ziyaret ettiği satıcılara puan verip yorum yapabilecek
+- Satıcılara yapılmış yorumları görüntüleyebilecek 
+- Sipariş hizmeti veren yerlerden sipariş verebilecek
+- İstedikleri satıcıları kaydedip stok durumları gibi konularda takip edebilecek
+- Satıcıları market, restoran, fırın gibi kategorilere göre sıralayabilecek 
+- askıda muhabbet?**
+
+Satıcı:
+
+- Kendi butiğini düzenleyebileccek
+- Kendi butiğine sattığı ürünün adı, fotoğrafı, fiyatı vb özellikleri ekleyebilecek, çıkarabilecek, güncelleyebilecek.
+- Sipariş hizmeti verebilecek
+
+Admin:
+
+- Satıcılar için özel bir yetki verebilecek
+- Her şeye erişimi olacak :)
+
+
+
+
+**5. üye olarak chatGPT kullanılacak ve kullanıldığı bölgeler not edilip bildirilecek 

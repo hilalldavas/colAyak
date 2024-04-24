@@ -1,0 +1,169 @@
++			Custom Cask Mod
++			Generic Mod Config Menu
++			SMAPI
++			Mail Framework Mod
++			Expanded Preconditions Utility
++			SpaceCore
++			Json Assets
++			Advanced Casks Mod
++			Anti-Social NPCs
++			Content Patcher
++			Producer Framework Mod
+-**			PPJA - More Trees
+-**			PPJA - Fruits and Veggies
+***			Project Populate JsonAssets Content Pack Collection
++**			PPJA - Artisan Valley - Custom Cask Mod Add - On
++			Artisanal Soda Makers
++			Automatic Gates
++			Custom Companions
++			DaisyNiko's Tilesheets
++			Destroyable Bushes
++			Extra Map Layers
++			Farm Type Manager (FTM)
++			Lumisteria Tilesheets - Indoor
++			Lumisteria Tilesheets - Outdoor
++			Shop Tile Framework
++			East Scarp
++			Bus Locations
++			Beatrice NPC
++			Bed Tweaks
++			Better Artisan Good Icons
++			Better Artisan Good Icons Fix
++			Better Artisan Good Icons for SVE
++			Better Chests
++			SAAT - Audio API and Toolkit
++			Stardew Valley Expanded
+	map		Grandpa's Farm
++	map		Immersive Farm 2 Remastered
++			Better Crafting
++			Better Junimos
++			Better Junimos Forestry
++			Better Ranching
++			Better Shop Menu
++			Bigger Backpack
++			Bonster's Fruit and Veg
++			Bonster's Recipes
++			Bug Net
++			CJB Cheats Menu
++			CJB Item Spawner
++			CJB Show Item Sell Price
++			Khadija's Recipe Shop
++			Shaved Ice and Frozen Treats
++			Champagne Wishes
++			CommunityCenterHelper
++			Content Patcher Animations
++			ConvenientInventory
++			Custom Crafting Stations
++			Custom Fixed Dialogue
++			Custom Music
++			Custom NPC Exclusions
++			Custom NPC Fixes
++			Data Layers
++			DeepWoods
++			Deluxe Grabber Redux
++			DontStopMeNow
++			Quest Framework
++			Train Station
++	map		Walk to the Desert - Redux
++			Downtown Zuzu
++			Dynamic Game Assets
++			Elle's Cat Replacements (Cat Replacements)
++			Elle's Dog Replacements (Dog Replacements)
++			Elle's New Barn Animals
++			Elle's New Coop Animals
++			Event Lookup
++			Event Repeater
++			Expanded Preconditions Utility
++			Fish Info
++			Fishing Info Overlays
++			TMXL Map Toolkit
++			Joja Cola Restock
++			Multi Yield Crops
+-**			PPJA - Fresh Meat_An 'Alternative' Butcher Mod (Fresh Meat)
+-**			PPJA - Even More Recipes_Another Collection of Recipes
+-**			PPJA - Mizu's Flowers
+-**			PPJA - More Recipes_A Collection of Recipes
++			PPJA - Starbrew Valley_A Collection of New Alcoholic Drinks
+-			More Meads
++			Fizzy Drinks
++			Friends Forever
++**			------------------Free Love----------------------------------
++			Gift Taste Helper
++			Harvest Moon FoMT-like Watering Can And Hoe Area
++			Horse Overhaul
++			Hugs and Kisses
++			Hybrid Crop Engine
++			Improved Clint
++			Juliet and Jessie the JojaMark Clerks
++			Lavril - East Scarp NPC (King's Raid)
++			Lumisteria Flowers and Crops
++			Mail Services Mod
++			Miss Coriel's Unique Courtship Response CORE
++			MissCoriel's NPC Unique Courtship Response 5 - Gifting Friends
++			Mister Ginger (cat NPC)
++			Moon Misadventures
++			More New Fish
++			More Rings
++			NPC Map Locations
++			NPC Map Locations - Extra Config
++			PPJA - Cannabis Kit
++			PPJA - Christmas Sweets
+-**			PPJA - Fantasy Crops
++			PyTK - Platonymous Toolkit
++			Ridgeside Village
++			Romanceable Rasmodius - SVE Compatible
++			Custom Kissing Mod
++			Shop Overhaul Compilation
++			Show Birthdays
++			Slime Produce
++			Smart Building
++			StardewHack
++			The Ranch Expansion Marnie and Jas (Marnie Immersive)
++			Tractor Mod
++			Tristan
++			Wear More Rings
++			Wedding Tweaks
++			Mobile Phone
++			Romanceable Rasmodia - Female Wizard
++			Xtardew Valley
++			Xtardew Valley - TR
++			Yagisan's Bountiful Valley
++			Yagisan's Bountiful Valley for Ridgeside Village
++			Yagisan's Custom NPCs for NPC Map Locations
++			Harvest With Scythe
+-			Better Farm Animal Variety
++?			UIInfoSuite2
++			Custom Spouse Rooms
++			Planned Parenthood
++			Alternative Textures
++			Gift Money 
++			Wilo's Giant Greenhouse Redux
++			Saurianne's Marvelous Mythicals
++			Paritee's Better Farm Animal Variety
++			Unlockable Bundles
++			Fishing Trawler
++			Hat Shop Restoration
++			Fashion Sense
++			Schedule Viewer
++			Automate
++			CCRMAutomate
++			Custom Crystalarium Mod
++			PFMAutomate
++			Upgradeable Machines Mod
++			Hats and Horns
++			Xiddav's Tilesheet
++			Kids Treehouse
++			The Grampleton Maker's Market Letter
++			Customize Wedding Attire
++			Paisley's Bridal Boutique (GMM)
++			Pigeon Mailbox
++			Animated Clothes
++			East Scarp - Bus Locations - English	
+
+
+
+
+
+
+
+

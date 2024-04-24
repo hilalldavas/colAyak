@@ -1,0 +1,27 @@
+-FrontEND
+
+JavaScript [React, Vue ve Angular]
+HMTL
+CSS [CSS Flexbox ve Grid , Sass, Boostrap]
+[HTTP, HTTPS (Back End ile bunlar sayesinde haberleşeceksiniz)]
+
+
+-BackEND
+
+JavaScript (NodeJS)
+PHP
+HTTP, HTTPS 
+Phyton? (Ne kadar kapsamlı ve uyumlu?)
+
+
+-Veri Tabanı
+
+MongoDB
+mysql
+
+
+***NoSQL***
+***Vue***
+***nodejs?***
+expes.js
+Git Github

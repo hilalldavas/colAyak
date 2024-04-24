@@ -1,0 +1,19 @@
+ikinci yöntemi kullanarak sana aşşağıda verdiğim bilgi ve şartlarla kodu yaz lütfen:
+mongodb de hazırladığım veri tabanını visual situdio code ve node.js kullanarak hazırlayacağım projenin backend'i ile veri tabanımı birleştirmeliyim.
+ işte veri tabanınım özeti:
+ 
+- Veritabanımın adı "colAyak". 
+- Koleksiyonlarının adı : "admin", "satici" ve "urun","adminislem".
+- admin koleksiyonundaki bir adminin özelliklerinin adları ve türleri: mongodb tarafından atanan bir "_id"(ObjectId,mongo db tarafından atanıyor),  "ad"(String), "soyad"(String), "telefon"(String), ,"kullaniciadi"(String),"sifre"(String)"adres"(Object). "adres" nesne nesnesinin içinde ise "sehir"(String),"mahalle"(String),"sokak":(String),"apartman"(String),"kat"(String),"kapıNo"(String),"postaNo"(String) değişkenleri var.
+- satici koleksiyonundaki bir satıcının özelliklerinin adları ve türleri: "_id"(ObjectId,mongo db tarafından atanıyor), "ad"(String),"adres"(Object),"urun_id"(Array). "adres" nesnesinin içinde "sehir"(String),"mahalle"(String),"sokak"(String) değişkenleri var. "urun_id" dizisi satıcının sattığı ürünlerin "urun" koleksiyonundaki "urun_id"lerini tutar. bu nedenle her birinin türü ObjectId'dir.
+- urun koleksiyonundaki bir ürünün özelliklerinin adları ve türleri: "_id"(ObjectId,mongo db tarafından atanıyor), "tur"(String), "marka"(String), "fiyat"(Int32)
+- adminislem koleksiyonundaki bir işlemin özelliklerinin adları ve türleri: "admin_id"(ObjectId),"islem"(String),"islemyapilan_id"(ObjectId)
+
+Veritabanına erişebilen birden fazla admin oalcağı için her birinin veritabanına hem doğrudan hem de koleksiyon içinde veri olarak kayıtlı kendi kullanıcı adı ve şifresi var. Adminin kendi bilgileri veri tabanına manuel olarak girileceği için kodda böyle bir veri girişine veya güncellenmesine yer verilemeyecek. Admin kullancıa dı ve şifre ile web sitesinden giriş yapacak ve böylece arayüzden yapacağı değişiklikler veri tabanına kaydedilecek. Her adminin kendine has bilgileri olduğundan bir admin web sitesinden giriş yaptığında o admini kendi kullanıcı adı ve şifresiyle veri tabanına bağlaman gerek.(Alınan ve  kullanılan bu bilgilerin gizliliğinden emin olunmalı)
+
+Admin websitesinin arayüzünü kullanarak yeni bir satıcı ekleyip, güncelleyip veya silip değişiklikleri veri tabanına kaydedebilecek. Yeni bir satıcı eklerken "urun_id" boş bırakabilir ancak diğerlerini doldurmak zorunda. Admin bir satıcıyı sildiğinde eğer satının "urun_id" dizisinin içi doluysa içinde idleri bulunun ürünler urun kategorisinden de silinicek. Diyelim ki admin yeni bir satıcı oluştururken satıcının profiline veya hali hazırda var olan bir profile satıcının sattığı ürünleri eklemek istedi. Bu durumda arayüzde ürün eklerken girdiği değerler ile oluşturduğu yeni ürün "urun" koleksiyonuna eklenecek fakat olturulurken oluşan id'si o satıcının "urun_id" dizisine de ekelencek. Böylece hangi satıcının o ürünü sattığı bilinecek. Eğer admin satıcının profilinden bir ürünü silerse, "urun_id" dizisinden ürünün id'si ve "urun"	kategorisinden ürünün kendisi beraber silinmeli. 
+
+Bir admin yukarıda saydığım veritabanının güncellenmesine sebep olacak herhangi bir işlem yaptığında bu değişikliği yapan adminin id'si "admin_id" kısmına, değişikliği yaptığı şeyin id'si "islemyapilan_id" kısmına ve admin yaptığı işlemi tamamlayıp arayüzde işini tamamladığınını onayladıktan (bir kaydet butonuna basarak misal) sonra arayüzün kendisinden alacağı metin "islem" kısmına kaydedilmeli. Böylece hangi adminin ne değişiklikler yaptığının kaydı da tutulabilir.
+
+
+Kodu hazırlarken değişkenleri Türkçe yap. Kullandığın veya oluşturuduğun  her şeyi yorum satırlarıyla detaylıca açıkla.

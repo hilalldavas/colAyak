@@ -1,0 +1,50 @@
+
+Çölyak hastalığı; besinlerdeki buğday, arpa ve çavdarda bulunan glüten adlı bir proteine karşı hassasiyet ile ortaya çıkar. Bir bağışıklık sistemi hastalığıdır ve her yaşta görülebilir.
+Bağışıklık sistemi glüten adlı proteine karşı vücudun geliştirdiği antikor, ince bağırsaklarda hasara ve çölyak hastalığının gelişimine neden olur. Antikor bağırsağın iç tabakasına zarar verir. Maddelerin emilimi zorlaşır.(Özellikle kan yapımında kullanılanlar) Bir tedavisi yok. Hasta gluten almazsa zarar önlenir ve şikayetler yok olur.
+
+
+Çölyak projesi:
+
+
+USE CASE
+
+Müşteri:
+
+
+- Harita üzerinden glutensiz ürün satan satıcıları görebilecek
+	*Adres Filtreleme
+- Ana ekrande satıcıları market, restoran, fırın gibi kategorilere göre sıralayabilecek 
+	*Ana ekranda satılan belli başlı ürünleri filtreleyip, satılan yerleri görebilecek 
+- Her satıcının butiğini görebilecek 
+	* Satıcının butiğindeki ürünleri görebilecek
+
+Admin:
+
+- Satıcıları profillerini yönetecilecek
+	*Satıcı profilini güncelleyebilecek
+		- Satıcı profilinin fotoğrafını güncelleyebilecek
+		- Satıcı profilinin adınını güncelleyebilecek
+		- Satıcı profilinin afişini güncelleyebilecek
+		
+	*Satıcı profilini silebilecek
+	
+	*Satıcı profili ekleyebilecek
+		- Satıcı profilinin fotoğrafını ekleyebilecek
+		- Satıcı profilinin adınını ekleyebilecek
+		- Satıcı profilinin afişini ekleyebilecek
+		- Satıcı profilinin adresini ekleyebilecek
+
+- Ürünleri yönetebilecek 
+	* Ürün ekleyebilecek
+		- Ürünün adını ekleyebilecek
+		- Ürünün fiyatını ekleyebilecek
+		- Ürünün fotoğrafını ekleyebilecek
+	* Ürün silebilecek
+	
+	* Ürün güncelleyebilecek
+		- Ürünün adını güncelleyebilecek
+		- Ürünün fiyatını güncelleyebilecek
+		- Ürünün fotoğrafını güncelleyebilecek
+- - Her satıcının butiğinde sattığı ürünleri görebilecek 
+	* Satıcının butiğindeki ürünleri görebilecek
+	

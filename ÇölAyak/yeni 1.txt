@@ -1,0 +1,9 @@
+NESNE DİYAGRAMI	
+
+1- Admin yeni satıcı profili oluşturur
+2- Admin satıcının bilgilerini girer
+3- Müşteri adrese göre filtreleme yapar
+4- Müşteri ürünleri filtreler
+5- Müşteri sartıcı türünü seçer
+6- Müşteri bir satıcının profiline girer 
+7- Müşteri müşteri satınıcın ürünlerini inceler
